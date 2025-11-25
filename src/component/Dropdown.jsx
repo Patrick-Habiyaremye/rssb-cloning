@@ -27,7 +27,7 @@ const Dropdown = () =>{
             </div>
 
             <div class="text-white w-40 h-15 bg-blue-800 rounded-md absolute left-25 top-120">
-                <button class="font-bold ml-4 mt-2">Learn More</button>
+                <button class="font-bold ml-8 mt-4">Learn More</button>
             </div>
         </div>
 
